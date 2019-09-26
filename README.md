@@ -1,4 +1,2 @@
 # myproject
-exercise
-this is my first coding exercise doing data manipulation
-using jupyter and spyder
+I will show some analytical examples I made right here.
